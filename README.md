@@ -7,35 +7,37 @@
 [![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller) [![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) [![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
 [![Gmail Badge](https://img.shields.io/badge/-adefemi171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adefemi171@gmail.com)](mailto:adefemi171@gmail.com)
 
-- Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science in University of Ibadan. I love networking and mentoring :8ball: :revolving_hearts:
+- AbdulQuadri🌟 here 👋💻 :man: Nigeria, Interested in Software Development, Machine-Learning and a very Great Blockchain Lover, I love networking and mentoring :VolleyBaller: Aspiring Fitness Model :revolving_hearts:
 
 ---
 
-### Spotify Playing 🎧
-[<img src="https://nova-spotify.adefemi171.vercel.app/api/spotify-playing" alt="Adefemi Spotify Playing" width="350" />](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
-
----
+--
 
 ## 👯 Communities
-- Microsoft Learn Student Ambassadors 
-- HackerEarth Campus Ambassador
+- AI Saturdays Ibadan
+- CovenLabs  
+-  Campus Ambassador
 
 ---
 
 ## 🔭 I’m currently working on
+- 
 
 ---
 
 ## 🌱 I’m currently learning
+- Spanish
+- Volleyball
+-
 
 ---
 
 ## 💬 Details
-- Name: Adefemi .A. Micheal
+- Name: Abdulquadri .A. Olanrewaju
 - 😄 Pronouns: He/Him :man:
 - Employer
 <!-- - Presentations -->
-- Portfolio: [Portfolio](https://adefemi.netlify.com/)
+- Portfolio: Coming Up Soon [Portfolio](#)
 
 - ⚡ Fun fact: Cheetah's can swim
 
@@ -45,14 +47,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Go App with Gitlab Runner on Azure |Part 2](https://medium.com/swlh/building-go-app-with-gitlab-runner-on-azure-part-2-68ba54cc5a6?source=rss-c011ee23c0a1------2)
-- [Building Go App with Gitlab Runner on Azure |Part 1](https://medium.com/swlh/building-go-app-with-gitlab-runner-on-azure-part-1-5e2a21c47876?source=rss-c011ee23c0a1------2)
-- [Containerization |Part 3: LXD ON STEROID](https://medium.com/faun/containerization-part-3-lxd-on-steroid-cbf73fccbc72?source=rss-c011ee23c0a1------2)
-- [Creating a Covid-10 Dashboard using Cube.js and VueJS](https://medium.com/analytics-vidhya/creating-a-covid-10-dashboard-using-cube-js-and-vuejs-17377dda5ef8?source=rss-c011ee23c0a1------2)
-- [Containerization |Part 2: From LXD to Kubernetes](https://medium.com/faun/containerization-part-2-from-lxd-to-kubernetes-6d595035fbc9?source=rss-c011ee23c0a1------2)
+- 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@adefemi171)
+➡️ [more blog posts...](https://medium.com/@adegbijilanre)
 
 ---
 
@@ -61,11 +59,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/WuraLab/Boardly/issues/39) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-2. 💪 Opened PR [#47](https://github.com/WuraLab/Boardly/pull/47) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-3. 🎉 Merged PR [#1](https://github.com/adefemi171/adefemi171.github.io/pull/1) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-4. 💪 Opened PR [#1](https://github.com/adefemi171/adefemi171.github.io/pull/1) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-5. ❌ Closed PR [#33](https://github.com/WuraLab/Boardly/pull/33) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -73,12 +67,12 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Adefemi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adefemi171&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Abdulquadri's Github Stats" src="#" />
 
 </details>
 
 
-<!-- ![Adefemi's github stats](https://github-readme-stats.vercel.app/api?username=adefemi171&hide=["issues"]&show_icons=true) -->
+<!-- ![Harbdulquadri's github stats](https://github-readme-stats.vercel.app/api?username=harbdhulquadri&hide=["issues"]&show_icons=true) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=adefemi171.adefemi171) -->
 <br />
@@ -89,7 +83,7 @@
 
 1. You can either fork or clone the repo
 2. Create a new repository
-3. Make the name of the repository your github username, fo example my username is `adefemi171` so my repository name will be `adefemi171`.
+3. Make the name of the repository your github username, fo example my username is `Harbdulquadri` so my repository name will be `Harbdhulquadri`.
 4. After this, a README.md file is automatically created, you can either clone this new repo or edit on your browser
 5. Paste what you forked/cloned from my repository and edit to your own style.
 5. To add more style to your README, you can watch this video by [codeSTACKr](https://www.youtube.com/watch?v=n6d4KHSKqGk) for the Spotify and also the blogpost functionality
